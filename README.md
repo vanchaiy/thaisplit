@@ -22,8 +22,10 @@ $exp = new THSplit\Segment();
 ```php
 $exp = new THSplit\Segment();
 
-print_r($exp->get_segment_array("ทดสอบแยกคำข้อความภาษาไทย"))
+print_r($exp->get_segment_array("ทดสอบแยกคำข้อความภาษาไทย"));
 ```
+### Output
+
 ```array
 Array ( [0] => ทดสอบ [1] => แยก [2] => คำ [3] => ข้อความ [4] => ภาษาไทย )
 ```
