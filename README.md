@@ -1,5 +1,6 @@
 # thaisplit
 thaisplit for Php pure &amp; support larave
+แยกคำประโยคภาษาไทย
 
 INSTALLATION
 ------------
